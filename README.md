@@ -2,6 +2,8 @@
 
 Criado com React Native
 
+Caso seja compilado com a Expo CLI, será preciso instalar com "npm install -g expo-cli".
+
 Para compilar basta executar o comando "npm install" na pasta raiz e depois "npm start".
 
 O código foi criado com Expo CLI. Segue instruções para executar:
