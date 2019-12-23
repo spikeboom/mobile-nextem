@@ -1,5 +1,7 @@
 # mobile-nextem
 
+Criado com React Native
+
 Para compilar basta executar o comando "npm install" na pasta raiz e depois "npm start".
 
 O código foi criado com Expo CLI. Segue instruções para executar:
